@@ -1017,6 +1017,8 @@ section#about {
     background-image: url(../img/backgrounds/about.jpg);
     background-position: center;
     background-size: cover;
+
+
 }
 .about {padding: 0px 45px;}
 
@@ -1056,7 +1058,7 @@ section h3.section-subheading {
 
 .text-about {
     text-transform: none;
-    color: #fff;
+    color: black;
     font-weight: 400;
     line-height: 22px;
     font-family: 'Source Sans Pro', sans-serif;
@@ -1146,7 +1148,7 @@ section h3.section-subheading {
 /* 11.0 =========================================================================  TESTIMONIALS  ==*/
 
 #testimonials {
-    background: #058BCE;
+    background: #B8B8B8;
     padding: 70px 0 100px 0;
     min-height: 450px;
 
@@ -1229,7 +1231,7 @@ section#testimonials .section-subheading {
 }
 
 section#contact {
-    background-image: url(../img/backgrounds/contact-img.png);
+    background-image: url(../img/backgrounds/night-light.jpg);
     background-position: center;
     background-size: cover;
     padding-bottom: 110px;
