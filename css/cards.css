@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: Arial;
+}
+
+h3{
+    padding-top: 20px;
+    color: grey;
+}
+
+.title{
+    padding: 5px;
+    text-align: center;
+}
+
+.des{
+    text-align: center;
+    padding: 5px;
+}
+.container{
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+.btn-container{
+    padding-left: 80px;    
+}
+
+button{
+    margin-top: 5px;
+    margin-bottom: 8px;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px;
+    cursor: pointer;
+    align-self: center;
+}
+
+button:hover{
+    background-color: black;
+    color: white;
+    transition: .5s;
+}
